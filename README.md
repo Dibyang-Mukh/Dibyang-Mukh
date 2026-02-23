@@ -1,74 +1,96 @@
-<h1 align="center">Hi 👋 I'm Dibyang</h1>
-<h3 align="center">Data Analyst • Power BI Developer • SQL • Python</h3>
+<div align="center">
 
-<p align="center">
-  Turning data into insights 📊 | Building dashboards that drive decisions 🚀
-</p>
+# 👋 Hi, I'm Dibyang  
 
----
+### 📊 Data Analyst | Power BI Developer | SQL | Python  
 
-## 🧑‍💻 About Me
+Turning raw data into meaningful insights that drive business decisions.
 
-- 📊 Passionate about Data Analytics & Business Intelligence  
-- 📈 Experienced in building interactive Power BI dashboards  
-- 🧮 Strong in SQL joins, aggregations & KPI calculations  
-- 🐍 Applied Python for data analysis & machine learning  
-- 🎯 Currently seeking Data Analyst / BI opportunities  
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+
+</div>
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 About Me  
 
-<p align="center">
+🔹 Passionate about Business Intelligence & Data Analytics  
+🔹 Experienced in building KPI-driven Power BI dashboards  
+🔹 Strong understanding of SQL joins, aggregations & data modeling  
+🔹 Applied Machine Learning for classification & regression problems  
+🔹 Actively seeking entry-level Data Analyst / BI roles  
+
+---
+
+## ⚡ Core Skills  
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+
 <br><br>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAX-005C84?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/DAX-111111?style=for-the-badge&logo=data&logoColor=00C4CC"/>
+<img src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoft-excel&logoColor=217346"/>
+<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
 
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 📊 Sales & Profit Dashboard
-Interactive Power BI dashboard analyzing sales performance (2014–2017), including KPIs like Total Sales, Profit & Profit Margin using DAX.
-
-### 🧠 Machine Learning Projects
-Classification & regression models including Iris classification and movie rating prediction using Python & scikit-learn.
-
-### ⏱ Python Timer Utility
-Lightweight script to measure execution time and understand performance optimization.
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Featured Projects  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dibyang-Mukh&show_icons=true&theme=transparent"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dibyang-Mukh&theme=transparent"/>
-</p>
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR-EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+### 📈 Sales & Profit Performance Dashboard  
+• Built interactive Power BI dashboard (2014–2017 dataset)  
+• Designed KPIs: Total Sales, Total Profit, Profit Margin  
+• Created optimized DAX measures  
+• Identified high-performing regions & product categories  
 
 ---
 
-<p align="center">
-⭐ Always learning. Always building. Always improving.
-</p>
+### 🧠 Machine Learning Projects  
+• Iris classification using supervised ML  
+• Movie rating prediction using regression  
+• Data preprocessing, EDA & model evaluation  
+
+---
+
+### ⏱ Python Timer Utility  
+• Developed lightweight execution-time measurement tool  
+• Demonstrated performance analysis concepts  
+
+---
+
+## 📈 GitHub Analytics  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dibyang-Mukh&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dibyang-Mukh&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 What I Bring  
+
+✔ Strong analytical mindset  
+✔ Business-focused dashboard development  
+✔ Clean, structured, well-documented projects  
+✔ Continuous learner in data & BI  
+
+---
+
+<div align="center">
+
+### ⭐ Building insights. Creating impact. Growing every day.
+
+</div>
