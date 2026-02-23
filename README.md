@@ -1,32 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Dibyangshu%20Mukherjee&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Dibyangshu%20Mukherjee&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-
-<h3 align="center">📊 Data Analyst | Power BI Developer | SQL | Python</h3>
-
-<p align="center">
-Turning raw data into meaningful insights that drive business decisions.
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/diby2004/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:dibyangshu2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+<h3 align="center">Data Analyst | Power BI Developer | SQL | Python</h3>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me  
 
-- 📊 Passionate about Business Intelligence & Data Analytics  
-- 📈 Experienced in building KPI-driven Power BI dashboards  
-- 🧠 Strong understanding of SQL joins, aggregations & data modeling  
-- 🤖 Applied Machine Learning for classification & regression problems  
-- 💼 Actively seeking entry-level Data Analyst / BI roles  
+🎓 Final Year Student passionate about Data Analytics & Business Intelligence  
+📊 Skilled in building dashboards, analyzing datasets, and extracting actionable insights  
+📈 Interested in Data Analyst, BI Developer, and Entry-Level Analytics roles  
+🚀 Strong focus on problem-solving and real-world data applications  
+
+---
+
+## 💼 Open to Work  
+
+Currently seeking **Data Analyst / Business Intelligence / Junior Data roles** where I can apply analytical thinking and data visualization skills to drive business decisions.
 
 ---
 
@@ -45,51 +36,48 @@ Turning raw data into meaningful insights that drive business decisions.
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-2d2d2d?style=for-the-badge&logo=powerbi&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Excel-2d2d2d?style=for-the-badge&logo=microsoft-excel&logoColor=green"/>
-  <img src="https://img.shields.io/badge/Matplotlib-2d2d2d?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-2d2d2d?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 📌 Featured Projects  
 
-### 📈 Sales & Profit Power BI Dashboard
-- Built interactive dashboard to analyze sales trends, profit margins & KPIs  
-- Created DAX measures for dynamic profit margin calculations  
-- Implemented slicers & filters for business insights  
+### 📊 Sales Dashboard – Power BI  
+- Designed an interactive sales performance dashboard  
+- Implemented KPIs, slicers, and dynamic filters  
+- Analyzed revenue trends and customer insights  
 
-### 🤖 Machine Learning Projects
-- Applied classification & regression models  
-- Data preprocessing & feature engineering  
-- Performance evaluation using accuracy metrics  
+### ⏱ Timer Application  
+- Built using HTML, CSS, and JavaScript  
+- Functional stopwatch with clean UI  
+- Focus on frontend responsiveness  
 
-### ⏱️ Productivity Timer App
-- Developed a simple timer using HTML, CSS & JavaScript  
-- Clean UI with responsive design  
+### 🤖 Machine Learning Projects  
+- Implemented classification and regression models  
+- Used Python libraries for preprocessing and evaluation  
+- Focused on practical dataset-based insights  
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dibyang-Mukh&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dibyang-Mukh&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dibyang-Mukh&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dibyang-Mukh&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 Career Objective
+## 📫 Connect With Me  
 
-To leverage analytical skills, business intelligence tools, and data-driven thinking to solve real-world business problems and contribute to organizational growth.
-
----
-
-## 📫 Let's Connect
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/diby2004/
-- 📧 Email: dibyangshu2004@gmail.com
+📧 Email: dibyangshu2004@gmail.com 
+🔗 LinkedIn:https://www.linkedin.com/in/diby2004/
+💻 GitHub: https://github.com/Dibyang-Mukh  
 
 ---
 
 <p align="center">
-⭐ If you like my work, feel free to explore my repositories!
+  ⭐ Always learning | 📊 Data Driven | 🚀 Growth Focused
 </p>
