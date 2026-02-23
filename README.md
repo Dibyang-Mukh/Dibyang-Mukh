@@ -41,6 +41,7 @@ Currently seeking **Data Analyst / Business Intelligence / Junior Data roles** w
 
 ---
 
+
 ## 📌 Featured Projects  
 
 ### 📊 Sales Dashboard – Power BI  
@@ -48,10 +49,11 @@ Currently seeking **Data Analyst / Business Intelligence / Junior Data roles** w
 - Implemented KPIs, slicers, and dynamic filters  
 - Analyzed revenue trends and customer insights  
 
-### ⏱ Timer Application  
-- Built using HTML, CSS, and JavaScript  
-- Functional stopwatch with clean UI  
-- Focus on frontend responsiveness  
+### ⏱ Python Timer Application  
+- Developed a command-line based timer using Python  
+- Implements countdown / time tracking functionality  
+- Focused on logic building and execution accuracy  
+- Lightweight and efficient terminal-based tool  
 
 ### 🤖 Machine Learning Projects  
 - Implemented classification and regression models  
