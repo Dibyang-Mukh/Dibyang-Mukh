@@ -34,18 +34,18 @@ Turning raw data into meaningful insights that drive business decisions.
 
 ### 💻 Programming  
 <p>
-<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=blue"/>
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=orange"/>
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/SQL-2d2d2d?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-2d2d2d?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/C++-2d2d2d?style=for-the-badge&logo=c%2B%2B&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/HTML5-2d2d2d?style=for-the-badge&logo=html5&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/CSS3-2d2d2d?style=for-the-badge&logo=css3&logoColor=blue"/>
 </p>
 
 ### 📊 Data Analytics & Visualization  
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoft-excel&logoColor=green"/>
-<img src="https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-2d2d2d?style=for-the-badge&logo=powerbi&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Excel-2d2d2d?style=for-the-badge&logo=microsoft-excel&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Matplotlib-2d2d2d?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
 ---
