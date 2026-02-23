@@ -62,12 +62,15 @@ Currently seeking **Data Analyst / Business Intelligence / Junior Data roles** w
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dibyang-Mukh&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dibyang-Mukh&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dibyang-Mukh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibyang-Mukh&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dibyang-Mukh&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
 ---
