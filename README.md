@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=200&section=header&text=Dibyangshu%20Mukherjee&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Dibyangshu Mukherjee</h1>
 
 <h3 align="center">📊 Data Analyst | Power BI Developer | SQL | Python</h3>
 
