@@ -1,21 +1,74 @@
-# 💫 About Me:
-Hi, I’m Dibyangshu Mukherjee, currently pursuing a B.Sc. in Physical Sciences with Computer Science. I’m passionate about technology and continuously learning to build a strong foundation for a career in the technical domain. I enjoy exploring new concepts, working on projects, and growing through hands-on experience.
+<h1 align="center">Hi 👋 I'm Dibyang</h1>
+<h3 align="center">Data Analyst • Power BI Developer • SQL • Python</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dibyangshumukherjee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diby2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dibyangshu2004@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dibyang-Mukh&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dibyang-Mukh&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dibyang-Mukh&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  Turning data into insights 📊 | Building dashboards that drive decisions 🚀
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dibyang-Mukh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+- 📊 Passionate about Data Analytics & Business Intelligence  
+- 📈 Experienced in building interactive Power BI dashboards  
+- 🧮 Strong in SQL joins, aggregations & KPI calculations  
+- 🐍 Applied Python for data analysis & machine learning  
+- 🎯 Currently seeking Data Analyst / BI opportunities  
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-005C84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Sales & Profit Dashboard
+Interactive Power BI dashboard analyzing sales performance (2014–2017), including KPIs like Total Sales, Profit & Profit Margin using DAX.
+
+### 🧠 Machine Learning Projects
+Classification & regression models including Iris classification and movie rating prediction using Python & scikit-learn.
+
+### ⏱ Python Timer Utility
+Lightweight script to measure execution time and understand performance optimization.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dibyang-Mukh&show_icons=true&theme=transparent"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dibyang-Mukh&theme=transparent"/>
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR-EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐ Always learning. Always building. Always improving.
+</p>
