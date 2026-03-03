@@ -44,6 +44,15 @@ Currently seeking **Data Analyst / Business Intelligence / Junior Data roles** w
 
 ## 📌 Featured Projects  
 
+### 📊 E-Commerce Sales Analytics Dashboard – SQL + Power BI
+
+• Built an end-to-end e-commerce analytics solution using Microsoft SQL Server and Power BI  
+• Performed advanced SQL queries using JOINs, GROUP BY, CTEs, CASE statements, and RANK()  
+• Analyzed monthly revenue trends, category performance, and top 5 customers  
+• Implemented indexing and query optimization for performance improvement  
+• Developed an interactive Power BI dashboard with KPIs and dynamic filters  
+• Repository: https://github.com/Dibyang-Mukh/E-Commerce-Sales-Analytics-Dashboard-SQL-Power-BI
+
 ### 📊 Sales Dashboard – Power BI  
 - Designed an interactive sales performance dashboard  
 - Implemented KPIs, slicers, and dynamic filters  
